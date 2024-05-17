@@ -1,0 +1,116 @@
+{
+  "companyProducts": [
+    {
+      "id": "6",
+      "product": "Shampoo",
+      "instock": false,
+      "price": "40",
+      "discription": "Hair product",
+      "category": "Cosmetics"
+    },
+    {
+      "id": "10",
+      "product": "dahi",
+      "instock": true,
+      "price": "90",
+      "Description": "curd",
+      "category": "Grocery"
+    },
+    {
+      "id": "30",
+      "product": "rice",
+      "instock": true,
+      "price": "50",
+      "description": "basmati rice",
+      "category": "Grocery"
+    },
+    {
+      "id": "40",
+      "product": "rr",
+      "instock": true,
+      "price": "20",
+      "description": "rrf",
+      "category": "Grocery"
+    },
+    {
+      "id": "50",
+      "product": "shampoo",
+      "instock": true,
+      "price": "20",
+      "description": "sddf",
+      "category": "cosmetics"
+    },
+    {
+      "id": "60",
+      "product": "besanlado",
+      "instock": true,
+      "price": "4",
+      "description": "zz",
+      "category": "Grocery"
+    },
+    {
+      "id": "70",
+      "product": "shampoo",
+      "instock": true,
+      "price": "90",
+      "description": "kk",
+      "category": "Fashion"
+    },
+    {
+      "id": 0,
+      "product": "dahi",
+      "instock": true,
+      "price": "10",
+      "description": "lassi",
+      "category": "Grocery"
+    },
+    {
+      "id": 0,
+      "product": "jeera",
+      "instock": true,
+      "price": "20",
+      "description": "ff",
+      "category": "Grocery"
+    },
+    {
+      "id": 0,
+      "product": "hello",
+      "instock": true,
+      "price": "4",
+      "description": "fvjfj",
+      "category": "cosmetics"
+    },
+    {
+      "id": 0,
+      "product": "soap",
+      "instock": true,
+      "price": "20",
+      "Description": " soap",
+      "category": "cosmetics"
+    },
+    {
+      "id": 0,
+      "product": "onion",
+      "instock": true,
+      "price": "30",
+      "Description": "pink and white onion",
+      "category": "Grocery"
+    },
+    {
+      "id": 0,
+      "product": "chips",
+      "instock": true,
+      "price": "20",
+      "Description": "junk food",
+      "category": "Grocery"
+    },
+    {
+      "id": 0,
+      "product": "makeup",
+      "instock": true,
+      "price": "1000",
+      "Description": "none",
+      "category": "cosmetics"
+    }
+  ]
+}
